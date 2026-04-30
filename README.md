@@ -18,6 +18,9 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **DevHunt** | A launchpad specifically designed for developer tools and open-source projects. | [Submit Here](https://devhunt.org/account/tools/new) |
 | **Launching Next** | A directory showcasing the world's newest and most trending tech startups. | [Submit Here](https://www.launchingnext.com/submit/) |
 | **AppSumo** | The leading digital marketplace for software deals and lifetime SaaS offers. | [Submit Here](https://sell.appsumo.com/) |
+| **Indie Hackers** | A community of developers and founders. Includes a database of self-funded products. | [Submit Here](https://www.indiehackers.com/products/) |
+| **Startup Stash** | A massive curated directory of tools and resources for startups and entrepreneurs. | [Submit Here](https://startupstash.com/add-listing/) |
+| **PitchWall** | A platform for finding early adopters and pitching early-stage SaaS projects. | [Submit Here](https://pitchwall.co/submit) |
 
 ## 🤝 How to Contribute
 
