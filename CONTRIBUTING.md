@@ -1,0 +1,35 @@
+# Contributing to Awesome SaaS Directories
+
+First off, thank you for considering contributing to this project! This list is built by and for the community, and your help is appreciated.
+
+To keep this directory high-quality and easy to read, please follow these guidelines when submitting a new SaaS directory.
+
+## 🛑 Guidelines for Inclusion
+
+Before submitting a Pull Request, please ensure the directory meets the following criteria:
+* **Relevant:** It must be a place where founders can launch, list, or submit a SaaS product.
+* **Active:** The directory must be currently active. Please do not submit dead sites or parked domains.
+* **Objective Description:** Keep the description short, clear, and objective. Avoid marketing fluff (e.g., instead of *"The absolute #1 best place to launch!!!"* use *"A community-driven launchpad for early-stage startups."*)
+* **Accurate Pricing:** Be honest about the pricing. If a site is "Free" but takes 6 months to approve without a paid boost, please list it as `Free (Long Wait) / Paid`.
+* **Direct Submission Link:** The link you provide **must** point directly to the submission or "add" page, not just the directory's homepage.
+
+## 📝 Formatting Rules
+
+We use a specific Markdown table format. Please copy the format exactly.
+
+1. **Add to the bottom:** Please add your new entry to the **bottom** of the current table to avoid merge conflicts.
+2. **Submit Link:** Use the format `[Submit Here](URL)` rather than pasting the raw URL. The URL **must** be the direct submission page.
+
+**Example of a perfect row:**
+| **Name of Directory** | A short, one-sentence description. | [Submit Here](https://example.com/submit) | Free / $49 |
+
+## 🛠️ Step-by-Step Instructions
+
+1. **Fork** this repository.
+2. **Clone** your fork to your local machine (or edit directly in the GitHub UI).
+3. **Edit** the `README.md` file and add your row to the bottom of the table.
+4. **Commit** your changes with a clear message (e.g., `Add [Directory Name]`).
+5. **Push** to your fork.
+6. Open a **Pull Request** against this repository.
+
+I will review Pull Requests as quickly as possible. Thank you for helping founders find the best places to launch!
