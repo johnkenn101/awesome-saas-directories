@@ -13,6 +13,11 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **SaaSHub** | The independent software marketplace and alternative finder. | [Submit Here](https://www.saashub.com/services/submit) | Free / Paid Promos |
 | **AlternativeTo** | Crowdsourced software recommendations. | [Submit Here](https://alternativeto.net/manage-item/) | Free |
 | **Microlaunch** | A community-driven launchpad for indie makers. | [Submit Here](https://microlaunch.net/premium) | Free / Paid Boosts |
+| **Uneed** | A hand-curated directory for the best tools and resources on the internet. | [Submit Here](https://www.uneed.best/submit-a-tool) | Free (Waitlist) / $29 |
+| **Toolify.ai** | The largest directory specifically tailored for AI tools and AI-powered SaaS. | [Submit Here](https://www.toolify.ai/submit) | $99 |
+| **DevHunt** | A launchpad specifically designed for developer tools and open-source projects. | [Submit Here](https://devhunt.org/account/tools/new) | Free (Waitlist) / $49 |
+| **Launching Next** | A directory showcasing the world's newest and most trending tech startups. | [Submit Here](https://www.launchingnext.com/submit/) | Free (Waitlist) / $99 |
+| **AppSumo** | The leading digital marketplace for software deals and lifetime SaaS offers. | [Submit Here](https://sell.appsumo.com/) | Revenue Share |
 
 ## 🤝 How to Contribute
 
