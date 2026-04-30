@@ -9,10 +9,10 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | Directory Name | Description | Submit Link | Pricing |
 | :--- | :--- | :--- | :--- |
 | **Product Hunt** | The most popular platform to discover your next favorite tech product. | [Submit Here](https://www.producthunt.com/posts/new) | Free |
-| **BetaList** | Discover and get early access to tomorrow's startups. | [Submit Here](https://betalist.com/submit) | Free (Waitlist) / $299 |
-| **SaaSHub** | The independent software marketplace and alternative finder. | [Submit Here](https://www.saashub.com/submit) | Free / Paid Promos |
-| **AlternativeTo** | Crowdsourced software recommendations. | [Submit Here](https://alternativeto.net/software/add/) | Free |
-| **Microlaunch** | A community-driven launchpad for indie makers. | [Submit Here](https://microlaunch.net/new) | Free / Paid Boosts |
+| **BetaList** | Discover and get early access to tomorrow's startups. | [Submit Here](https://betalist.com/submissions/new) | Free (Waitlist) / $299 |
+| **SaaSHub** | The independent software marketplace and alternative finder. | [Submit Here](https://www.saashub.com/services/submit) | Free / Paid Promos |
+| **AlternativeTo** | Crowdsourced software recommendations. | [Submit Here](https://alternativeto.net/manage-item/) | Free |
+| **Microlaunch** | A community-driven launchpad for indie makers. | [Submit Here](https://microlaunch.net/premium) | Free / Paid Boosts |
 
 ## 🤝 How to Contribute
 
