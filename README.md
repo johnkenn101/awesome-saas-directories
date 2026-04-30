@@ -2,22 +2,22 @@
 
 A curated list of the best places to launch and list your SaaS product to get early users, feedback, and backlinks. 
 
-Finding where to launch your SaaS can be tedious. This directory aims to save founders time by keeping all the best submission links and pricing details in one place.
+Finding where to launch your SaaS can be tedious. This directory aims to save founders time by keeping all the best submission links in one place.
 
 ## 📋 The Directory
 
-| Directory Name | Description | Submit Link | Pricing |
-| :--- | :--- | :--- | :--- |
-| **Product Hunt** | The most popular platform to discover your next favorite tech product. | [Submit Here](https://www.producthunt.com/posts/new) | Free |
-| **BetaList** | Discover and get early access to tomorrow's startups. | [Submit Here](https://betalist.com/submissions/new) | Free (Waitlist) / $299 |
-| **SaaSHub** | The independent software marketplace and alternative finder. | [Submit Here](https://www.saashub.com/services/submit) | Free / Paid Promos |
-| **AlternativeTo** | Crowdsourced software recommendations. | [Submit Here](https://alternativeto.net/manage-item/) | Free |
-| **Microlaunch** | A community-driven launchpad for indie makers. | [Submit Here](https://microlaunch.net/premium) | Free / Paid Boosts |
-| **Uneed** | A hand-curated directory for the best tools and resources on the internet. | [Submit Here](https://www.uneed.best/submit-a-tool) | Free (Waitlist) / $29 |
-| **Toolify.ai** | The largest directory specifically tailored for AI tools and AI-powered SaaS. | [Submit Here](https://www.toolify.ai/submit) | $99 |
-| **DevHunt** | A launchpad specifically designed for developer tools and open-source projects. | [Submit Here](https://devhunt.org/account/tools/new) | Free (Waitlist) / $49 |
-| **Launching Next** | A directory showcasing the world's newest and most trending tech startups. | [Submit Here](https://www.launchingnext.com/submit/) | Free (Waitlist) / $99 |
-| **AppSumo** | The leading digital marketplace for software deals and lifetime SaaS offers. | [Submit Here](https://sell.appsumo.com/) | Revenue Share |
+| Directory Name | Description | Submit Link |
+| :--- | :--- | :--- |
+| **Product Hunt** | The most popular platform to discover your next favorite tech product. | [Submit Here](https://www.producthunt.com/posts/new) |
+| **BetaList** | Discover and get early access to tomorrow's startups. | [Submit Here](https://betalist.com/submissions/new) |
+| **SaaSHub** | The independent software marketplace and alternative finder. | [Submit Here](https://www.saashub.com/services/submit) |
+| **AlternativeTo** | Crowdsourced software recommendations. | [Submit Here](https://alternativeto.net/manage-item/) |
+| **Microlaunch** | A community-driven launchpad for indie makers. | [Submit Here](https://microlaunch.net/premium) |
+| **Uneed** | A hand-curated directory for the best tools and resources on the internet. | [Submit Here](https://www.uneed.best/submit-a-tool) |
+| **Toolify.ai** | The largest directory specifically tailored for AI tools and AI-powered SaaS. | [Submit Here](https://www.toolify.ai/submit) |
+| **DevHunt** | A launchpad specifically designed for developer tools and open-source projects. | [Submit Here](https://devhunt.org/account/tools/new) |
+| **Launching Next** | A directory showcasing the world's newest and most trending tech startups. | [Submit Here](https://www.launchingnext.com/submit/) |
+| **AppSumo** | The leading digital marketplace for software deals and lifetime SaaS offers. | [Submit Here](https://sell.appsumo.com/) |
 
 ## 🤝 How to Contribute
 

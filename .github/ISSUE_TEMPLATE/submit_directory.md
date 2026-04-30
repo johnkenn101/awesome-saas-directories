@@ -15,6 +15,3 @@ assignees: ''
 
 **Submit Link:**
 [The DIRECT URL to the submission page, not just the homepage]
-
-**Pricing:**
-[e.g., Free, $99 One-Time, Free (Waitlist) / $299]

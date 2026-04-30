@@ -13,7 +13,6 @@ assignees: ''
 **What is wrong with it?**
 - [ ] The website is down / returns a 404
 - [ ] The submit link has changed
-- [ ] The pricing is no longer accurate
 - [ ] Other (please specify below)
 
 **Additional Context:**
