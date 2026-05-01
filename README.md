@@ -35,6 +35,15 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **Fazier**         | A platform for discovering and launching early-stage products and tools.                 | [Submit Here](https://fazier.com/submit)                         |
 | **Hacker News**    | A social news website focusing on computer science, entrepreneurship, and product launches.| [Submit Here](https://news.ycombinator.com/submit)               |
 | **ctrlalt.cc**     | A directory for launching and discovering new startup tools and tech products.           | [Submit Here](https://ctrlalt.cc/)                               |
+| **r/microsaas**    | A Reddit community dedicated to discussing and sharing micro SaaS products.              | [Submit Here](https://www.reddit.com/r/microsaas/submit/)        |
+| **fb/All About AI Tools & AI News** | A Facebook group for sharing and discovering new AI tools and news.     | [Submit Here](https://www.facebook.com/groups/freeai)            |
+| **SideProjectors** | A marketplace and directory to discover, buy, and sell side projects.                    | [Submit Here](https://www.sideprojectors.com/submit/type)        |
+| **x/Side Projects**| An X (Twitter) community for sharing and discovering side projects.                      | [Submit Here](https://x.com/i/communities/1825401786217210316)   |
+| **x/Startup Community** | An X (Twitter) community connecting startup founders and early adopters.            | [Submit Here](https://x.com/i/communities/1471580197908586507)   |
+| **TrustMRR**       | A platform serving as a verified database of startup revenues and a launch leaderboard.  | [Submit Here](https://trustmrr.com/)                             |
+| **x/Build in Public** | An X (Twitter) community for founders sharing their journey of building startups.     | [Submit Here](https://x.com/i/communities/1493446837214187523)   |
+| **r/SaaSy**        | A Reddit community for SaaS professionals to share tools, strategies, and discussions.   | [Submit Here](https://www.reddit.com/r/SaaSy/submit/)            |
+| **r/saasbuild**    | A Reddit community focused on building and launching SaaS applications.                  | [Submit Here](https://www.reddit.com/r/saasbuild/submit/)        |
 
 ## 🤝 How to Contribute
 
