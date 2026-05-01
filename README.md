@@ -54,6 +54,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **Versily**        | A directory and platform to showcase software products and tools.                        | [Submit Here](https://versily.com/start/product)                 |
 | **AI Tools**       | A curated database of AI-powered tools and software products.                            | [Submit Here](https://aitools.inc/submit)                        |
 | **Launch AI**      | A directory focused specifically on launching new AI products and tools.                 | [Submit Here](https://trylaunch.ai/submit)                       |
+| **r/startup**      | A Reddit community for discussing startups and launching new projects.                   | [Submit Here](https://www.reddit.com/r/startup/submit/)          |
 
 ## 🤝 How to Contribute
 
