@@ -23,6 +23,18 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **PitchWall**      | A platform for finding early adopters and pitching early-stage SaaS projects.            | [Submit Here](https://pitchwall.co/submit)             |
 | **SaaS Mantra**    | A platform bridging SaaS founders with a community of early adopters via lifetime deals. | [Submit Here](https://launch-mantra.paperform.co/)     |
 | **StartupBase**    | A community for makers and early adopters to connect and discuss the latest products.    | [Submit Here](https://startupbase.io/submit)           |
+| **There's An AI For That** | A comprehensive directory and database for discovering AI products and tools.            | [Submit Here](https://theresanaiforthat.com/launch/)             |
+| **Micro SaaS Examples** | A curated collection and directory for discovering micro SaaS products.                  | [Submit Here](https://www.microsaasexamples.com/submit-micro-saas) |
+| **Peerlist Launchpad** | A professional network where you can showcase your work and launch new projects.         | [Submit Here](https://peerlist.io/launchpad)                     |
+| **r/SideProject**  | A Reddit community for sharing and discovering side projects.                            | [Submit Here](https://www.reddit.com/r/SideProject/submit/)      |
+| **Open-Launch**    | A platform to launch and discover new startup projects and tools.                        | [Submit Here](https://open-launch.com/projects/submit/)          |
+| **DEV Community**  | A community of software developers where you can share articles and new tools.           | [Submit Here](https://dev.to/new)                                |
+| **A1 Gallery**     | A curated gallery for discovering new apps and websites.                                 | [Submit Here](https://www.a1.gallery/submit)                     |
+| **TinyLaunch**     | A directory focused on helping founders launch and discover small startups and tools.    | [Submit Here](https://www.tinylaunch.com/dashboard/startups/new) |
+| **Resource FYI**   | A curated collection of resources and tools for creators and founders.                   | [Submit Here](https://resource.fyi/account/submit)               |
+| **Fazier**         | A platform for discovering and launching early-stage products and tools.                 | [Submit Here](https://fazier.com/submit)                         |
+| **Hacker News**    | A social news website focusing on computer science, entrepreneurship, and product launches.| [Submit Here](https://news.ycombinator.com/submit)               |
+| **ctrlalt.cc**     | A directory for launching and discovering new startup tools and tech products.           | [Submit Here](https://ctrlalt.cc/)                               |
 
 ## 🤝 How to Contribute
 
