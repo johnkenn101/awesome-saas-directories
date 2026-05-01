@@ -44,6 +44,16 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **x/Build in Public** | An X (Twitter) community for founders sharing their journey of building startups.     | [Submit Here](https://x.com/i/communities/1493446837214187523)   |
 | **r/SaaSy**        | A Reddit community for SaaS professionals to share tools, strategies, and discussions.   | [Submit Here](https://www.reddit.com/r/SaaSy/submit/)            |
 | **r/saasbuild**    | A Reddit community focused on building and launching SaaS applications.                  | [Submit Here](https://www.reddit.com/r/saasbuild/submit/)        |
+| **Dang.ai**        | A directory focusing specifically on AI products and startups.                           | [Submit Here](https://dang.ai/)                                  |
+| **AI Tools Directory** | A comprehensive directory for discovering and listing new AI tools.                      | [Submit Here](https://aitoolsdirectory.com/submit-tool)          |
+| **AIxploria**      | A platform to discover, launch, and feature AI applications.                             | [Submit Here](https://www.aixploria.com/en/featured-on-aixploria/#submit) |
+| **DodoMRR**        | A verified database to launch your startup and track revenue growth.                     | [Submit Here](https://www.dodomrr.com/)                          |
+| **TrustRoas**      | A database of verified ad spend and revenue for Shopify stores.                          | [Submit Here](https://trustroas.com/add-store)                   |
+| **Turbo0**         | A directory focused on discovering content creation tools and tech startups.             | [Submit Here](https://turbo0.com/submit)                         |
+| **ToolPilot**      | A directory to launch and discover the latest AI tools and applications.                 | [Submit Here](https://www.toolpilot.ai/pages/submit-your-ai-tool) |
+| **Versily**        | A directory and platform to showcase software products and tools.                        | [Submit Here](https://versily.com/start/product)                 |
+| **AI Tools**       | A curated database of AI-powered tools and software products.                            | [Submit Here](https://aitools.inc/submit)                        |
+| **Launch AI**      | A directory focused specifically on launching new AI products and tools.                 | [Submit Here](https://trylaunch.ai/submit)                       |
 
 ## 🤝 How to Contribute
 
