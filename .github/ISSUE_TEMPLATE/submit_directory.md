@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Directory Name:**
-[Enter the name here]
+[Enter the name here. If it's a Reddit subreddit, X community, or Facebook group, add r/, x/, or fb/ before the name respectively (e.g., r/[directory]). We currently only accept Reddit, X, or Facebook groups for social communities.]
 
 **Description:**
 [A short, one-sentence objective description]

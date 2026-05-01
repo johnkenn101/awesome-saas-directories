@@ -7,10 +7,11 @@ To keep this directory high-quality and easy to read, please follow these guidel
 ## 🛑 Guidelines for Inclusion
 
 Before submitting a Pull Request, please ensure the directory meets the following criteria:
-* **Relevant:** It must be a place where founders can launch, list, or submit a SaaS product.
-* **Active:** The directory must be currently active. Please do not submit dead sites or parked domains.
-* **Objective Description:** Keep the description short, clear, and objective. Avoid marketing fluff (e.g., instead of *"The absolute #1 best place to launch!!!"* use *"A community-driven launchpad for early-stage startups."*)
-* **Direct Submission Link:** The link you provide **must** point directly to the submission or "add" page, not just the directory's homepage.
+
+- **Relevant:** It must be a place where founders can launch, list, or submit a SaaS product.
+- **Active:** The directory must be currently active. Please do not submit dead sites or parked domains.
+- **Objective Description:** Keep the description short, clear, and objective. Avoid marketing fluff (e.g., instead of _"The absolute #1 best place to launch!!!"_ use _"A community-driven launchpad for early-stage startups."_)
+- **Direct Submission Link:** The link you provide **must** point directly to the submission or "add" page, not just the directory's homepage.
 
 ## 📝 Formatting Rules
 
@@ -18,6 +19,7 @@ We use a specific Markdown table format. Please copy the format exactly.
 
 1. **Add to the bottom:** Please add your new entry to the **bottom** of the current table to avoid merge conflicts.
 2. **Submit Link:** Use the format `[Submit Here](URL)` rather than pasting the raw URL. The URL **must** be the direct submission page.
+3. **Social Communities:** If the directory you are submitting is a Reddit subreddit, X community, or Facebook group, add `r/`, `x/`, or `fb/` before the directory name respectively (e.g., `r/[Directory Name]`). _Note: We currently only accept Reddit, X, or Facebook for social communities._
 
 **Example of a perfect row:**
 | **Name of Directory** | A short, one-sentence description. | [Submit Here](https://example.com/submit) |
