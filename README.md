@@ -55,6 +55,11 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **AI Tools**       | A curated database of AI-powered tools and software products.                            | [Submit Here](https://aitools.inc/submit)                        |
 | **Launch AI**      | A directory focused specifically on launching new AI products and tools.                 | [Submit Here](https://trylaunch.ai/submit)                       |
 | **r/startup**      | A Reddit community for discussing startups and launching new projects.                   | [Submit Here](https://www.reddit.com/r/startup/submit/)          |
+| **Aura++**        | A fast-paced launch platform to boost visibility and get your product discovered quickly.                    | [Submit Here](https://auraplusplus.com/projects/submit)              |
+| **Earlyhunt**     | A launch platform where early adopters discover and engage with new products and startups.                       | [Submit Here](https://earlyhunt.com/submit)         |
+| **Indiehunt**     | An AI-powered launch platform connecting indie products with builders and early adopters.                     | [Submit Here](https://indiehunt.io/submit)          |
+| **Makerhunt**     | A weekly launch platform for makers to showcase products, gain feedback, and reach early users.                        | [Submit Here](https://makerhunt.io/submit)                  |
+| **Sidehunt**      | A weekly hunt platform to launch side projects, collect votes, and reach early adopters.                 | [Submit Here](https://sidehunt.io/submit)           |
 
 ## 🤝 How to Contribute
 
