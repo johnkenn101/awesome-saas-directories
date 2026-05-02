@@ -60,6 +60,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **Indiehunt**     | An AI-powered launch platform connecting indie products with builders and early adopters.                     | [Submit Here](https://indiehunt.io/submit)          |
 | **Makerhunt**     | A weekly launch platform for makers to showcase products, gain feedback, and reach early users.                        | [Submit Here](https://makerhunt.io/submit)                  |
 | **Sidehunt**      | A weekly hunt platform to launch side projects, collect votes, and reach early adopters.                 | [Submit Here](https://sidehunt.io/submit)           |
+| **Uno Directory**  | A curated directory to discover the best tools, SaaS products, and resources.            | [Submit Here](https://uno.directory/submit)                      |
 
 ## 🤝 How to Contribute
 
