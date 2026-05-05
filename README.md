@@ -64,6 +64,11 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **ScrollLaunch**   | A launch platform for indie makers and SaaS founders to showcase products and climb weekly rankings. | [Submit Here](https://www.scrolllaunch.com/dashboard/products/new) |
 | **PeerPush**       | A product discovery platform making your product discoverable by people and AI assistants.               | [Submit Here](https://peerpush.net/submit)                       |
 | **Productburst**   | A place to launch products, get feedback, build community, and get your first set of customers.          | [Submit Here](https://productburst.com/pre-launch)               |
+| **Smol Launch**    | A weekly launch platform for makers to submit products, earn votes, get feedback, and reach early adopters. | [Submit Here](https://smollaunch.com/dashboard/products/new)     |
+| **NextGen Tools**  | An AI tools directory and launch platform to discover trending SaaS and developer tools.                   | [Submit Here](https://www.nxgntools.com/~/my-tools)              |
+| **OpenHunts**      | A product launch and discovery platform for makers and developers to explore, upvote, and submit startups. | [Submit Here](https://openhunts.com/projects/submit)             |
+| **WhatLaunched.Today** | A platform to discover the latest daily product launches and tech startups.                          | [Submit Here](https://whatlaunched.today/submit)                 |
+| **AI Valley**      | A directory that curates the most useful AI tools and prompts daily for any use.                         | [Submit Here](https://aivalley.ai/submit-tool/)                  |
 
 ## 🤝 How to Contribute
 
