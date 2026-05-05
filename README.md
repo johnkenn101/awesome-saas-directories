@@ -84,6 +84,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **OpenHunts**      | A product launch and discovery platform for makers and developers to explore, upvote, and submit startups. | [Submit Here](https://openhunts.com/projects/submit)             |
 | **WhatLaunched.Today** | A platform to discover the latest daily product launches and tech startups.                          | [Submit Here](https://whatlaunched.today/submit)                 |
 | **AI Valley**      | A directory that curates the most useful AI tools and prompts daily for any use.                         | [Submit Here](https://aivalley.ai/submit-tool/)                  |
+| **ListYourIdea**   | A platform to discover and launch the best indie products, SaaS tools, and startups.                     | [Submit Here](https://listyouridea.com/profile/projects/add-project) |
 
 ## 🤝 How to Contribute
 
