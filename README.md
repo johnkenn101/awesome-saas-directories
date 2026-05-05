@@ -1,5 +1,20 @@
 # 🚀 Awesome SaaS Directories
 
+<p align="center">
+  <a href="https://github.com/theshubh77/awesome-saas-directories/stargazers">
+    <img src="https://img.shields.io/github/stars/theshubh77/awesome-saas-directories?style=social" />
+  </a>
+  <a href="https://github.com/theshubh77/awesome-saas-directories/network/members">
+    <img src="https://img.shields.io/github/forks/theshubh77/awesome-saas-directories" />
+  </a>
+  <a href="https://github.com/theshubh77/awesome-saas-directories/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/theshubh77/awesome-saas-directories" />
+  </a>
+  <a href="https://github.com/theshubh77/awesome-saas-directories/pulls">
+    <img src="https://img.shields.io/github/issues-pr/theshubh77/awesome-saas-directories" />
+  </a>
+</p>
+
 A curated list of the best places to launch and list your SaaS product to get early users, feedback, and backlinks.
 
 Finding where to launch your SaaS can be tedious. This directory aims to save founders time by keeping all the best submission links in one place.
