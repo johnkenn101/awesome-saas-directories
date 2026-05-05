@@ -62,6 +62,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **Sidehunt**      | A weekly hunt platform to launch side projects, collect votes, and reach early adopters.                 | [Submit Here](https://sidehunt.io/submit)           |
 | **Uno Directory**  | A curated directory to discover the best tools, SaaS products, and resources.            | [Submit Here](https://uno.directory/submit)                      |
 | **ScrollLaunch**   | A launch platform for indie makers and SaaS founders to showcase products and climb weekly rankings. | [Submit Here](https://www.scrolllaunch.com/dashboard/products/new) |
+| **PeerPush**       | A product discovery platform making your product discoverable by people and AI assistants.               | [Submit Here](https://peerpush.net/submit)                       |
 
 ## 🤝 How to Contribute
 
