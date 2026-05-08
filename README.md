@@ -86,6 +86,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **AI Valley**      | A directory that curates the most useful AI tools and prompts daily for any use.                         | [Submit Here](https://aivalley.ai/submit-tool/)                  |
 | **ListYourIdea**   | A platform to discover and launch the best indie products, SaaS tools, and startups.                     | [Submit Here](https://listyouridea.com/profile/projects/add-project) |
 | **MarketingDB**    | A platform providing dofollow backlinks for SaaS & startups.                                             | [Submit Here](https://marketingdb.live/submit)                   |
+| **Store.App**      | A marketplace to boost your PWA's visibility, reach a broader audience, and drive installs.              | [Submit Here](https://store.app/list)                            |
 
 ## 🤝 How to Contribute
 
