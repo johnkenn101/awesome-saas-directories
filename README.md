@@ -100,6 +100,8 @@ Contributions are always welcome! If you know of a great SaaS directory that isn
 
 Please ensure the directory is legitimate and active before submitting. If the directory you are submitting is a Reddit subreddit, X community, or Facebook group, add `r/`, `x/`, or `fb/` before the directory name respectively (e.g., `r/[Directory Name]`). We currently only accept Reddit, X, or Facebook for social communities.
 
+For more detailed instructions, please refer to our [Contribution Guidelines](CONTRIBUTING.md).
+
 ## 👨‍💻 Author
 
 Created and maintained by [**Shubham Bhamare**](https://linktr.ee/theshubh77).
