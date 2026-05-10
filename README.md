@@ -90,6 +90,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **Altern**                          | A curated list and directory of the best AI tools and agents to enhance your productivity.                  | [Submit Here](https://altern.ai/submit)                                   |
 | **WIP.co**                          | A community of makers who help each other ship projects and build in public.                                | [Submit Here](https://wip.co/settings/projects/new)                       |
 | **Launched!**                       | A platform that helps you discover the latest products launched.                                            | [Submit Here](https://launched.io/newsubmission)                          |
+| **StackShare**                      | A platform to discover, discuss, and share the tech stacks that power the best software companies.          | [Submit Here](https://stackshare.io/)                                     |
 
 ## 🤝 How to Contribute
 
