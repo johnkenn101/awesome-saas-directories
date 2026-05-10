@@ -89,6 +89,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **Store.App**                       | A marketplace to boost your PWA's visibility, reach a broader audience, and drive installs.                 | [Submit Here](https://store.app/list)                                     |
 | **Altern**                          | A curated list and directory of the best AI tools and agents to enhance your productivity.                  | [Submit Here](https://altern.ai/submit)                                   |
 | **WIP.co**                          | A community of makers who help each other ship projects and build in public.                                | [Submit Here](https://wip.co/settings/projects/new)                       |
+| **Launched!**                       | A platform that helps you discover the latest products launched.                                            | [Submit Here](https://launched.io/newsubmission)                          |
 
 ## 🤝 How to Contribute
 
