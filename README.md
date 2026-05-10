@@ -91,6 +91,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **WIP.co**                          | A community of makers who help each other ship projects and build in public.                                | [Submit Here](https://wip.co/settings/projects/new)                       |
 | **Launched!**                       | A platform that helps you discover the latest products launched.                                            | [Submit Here](https://launched.io/newsubmission)                          |
 | **StackShare**                      | A platform to discover, discuss, and share the tech stacks that power the best software companies.          | [Submit Here](https://stackshare.io/)                                     |
+| **Startup Listing**                 | A curated collection of SaaS tools, micro-SaaS solutions, and side projects to help grow your startup.      | [Submit Here](https://startuplist.ing/products/new)                       |
 
 ## 🤝 How to Contribute
 
