@@ -99,6 +99,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 74 | **Twelve Tools**                    | A directory to list and discover new software tools and startup products.                                   | [Submit Here](https://twelve.tools/submit)                                |
 | 75 | **Startup Fast**                    | A directory for launching startups and finding early adopters quickly.                                      | [Submit Here](https://www.startupfa.st/submit)                            |
 | - | **ToolsFine**                       | A directory focused on discovering and launching AI tools and startup products.                             | [Submit Here](https://toolsfine.com/submit-ai-tools-or-product)           |
+| - | **FoundrList**                      | A curated directory for discovering new software tools and startup resources.                               | [Submit Here](https://www.foundrlist.com/submit)                          |
 
 ## 🤝 How to Contribute
 
