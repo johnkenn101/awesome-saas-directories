@@ -18,11 +18,12 @@ Before submitting a Pull Request, please ensure the directory meets the followin
 We use a specific Markdown table format. Please copy the format exactly.
 
 1. **Add to the bottom:** Please add your new entry to the **bottom** of the current table to avoid merge conflicts.
-2. **Submit Link:** Use the format `[Submit Here](URL)` rather than pasting the raw URL. The URL **must** be the direct submission page.
-3. **Social Communities:** If the directory you are submitting is a Reddit subreddit, X community, or Facebook group, add `r/`, `x/`, or `fb/` before the directory name respectively (e.g., `r/[Directory Name]`). _Note: We currently only accept Reddit, X, or Facebook for social communities._
+2. **Numbering:** The table is automatically numbered by our bot. Please use `-` in the `#` column for your new entry.
+3. **Submit Link:** Use the format `[Submit Here](URL)` rather than pasting the raw URL. The URL **must** be the direct submission page.
+4. **Social Communities:** If the directory you are submitting is a Reddit subreddit, X community, or Facebook group, add `r/`, `x/`, or `fb/` before the directory name respectively (e.g., `r/[Directory Name]`). _Note: We currently only accept Reddit, X, or Facebook for social communities._
 
 **Example of a perfect row:**
-| **Name of Directory** | A short, one-sentence description. | [Submit Here](https://example.com/submit) |
+| - | **Name of Directory** | A short, one-sentence description. | [Submit Here](https://example.com/submit) |
 
 ## 🛠️ Step-by-Step Instructions
 
