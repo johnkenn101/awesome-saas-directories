@@ -95,6 +95,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 70 | **Tiny Startups**                   | A directory and platform to discover and launch small startups and indie projects.                          | [Submit Here](https://www.tinystartups.com/submit)                        |
 | 71 | **Startup Fame**                    | A platform to launch your startup, reach early adopters, and gain traction.                                 | [Submit Here](https://startupfa.me/dashboard)                             |
 | 72 | **BuiltByIndies**                   | A directory and community showcasing projects and startups built by indie makers.                           | [Submit Here](https://builtbyindies.com/submit)                           |
+| 73 | **LaunchIgniter**                   | A directory to discover and launch new tech products and tools.                                             | [Submit Here](https://launchigniter.com/submit)                           |
 
 ## 🤝 How to Contribute
 
