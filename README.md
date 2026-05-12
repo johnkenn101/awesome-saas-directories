@@ -97,6 +97,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 72 | **BuiltByIndies**                   | A directory and community showcasing projects and startups built by indie makers.                           | [Submit Here](https://builtbyindies.com/submit)                           |
 | 73 | **LaunchIgniter**                   | A directory to discover and launch new tech products and tools.                                             | [Submit Here](https://launchigniter.com/submit)                           |
 | 74 | **Twelve Tools**                    | A directory to list and discover new software tools and startup products.                                   | [Submit Here](https://twelve.tools/submit)                                |
+| 75 | **Startup Fast**                    | A directory for launching startups and finding early adopters quickly.                                      | [Submit Here](https://www.startupfa.st/submit)                            |
 
 ## 🤝 How to Contribute
 
