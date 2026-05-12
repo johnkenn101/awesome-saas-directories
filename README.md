@@ -92,6 +92,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | **Launched!**                       | A platform that helps you discover the latest products launched.                                            | [Submit Here](https://launched.io/newsubmission)                          |
 | **StackShare**                      | A platform to discover, discuss, and share the tech stacks that power the best software companies.          | [Submit Here](https://stackshare.io/)                                     |
 | **Startup Listing**                 | A curated collection of SaaS tools, micro-SaaS solutions, and side projects to help grow your startup.      | [Submit Here](https://startuplist.ing/products/new)                       |
+| **Tiny Startups**                   | A directory and platform to discover and launch small startups and indie projects.                          | [Submit Here](https://www.tinystartups.com/submit)                        |
 
 ## 🤝 How to Contribute
 
