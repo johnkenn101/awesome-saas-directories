@@ -107,6 +107,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 82 | **AI With Me**                      | A directory to discover and submit new AI tools and products.                               | [Submit Here](https://aiwith.me/submit/)                                  |
 | 83 | **Shipybara**                       | A platform to launch your startup and discover new projects.                                | [Submit Here](https://shipybara.com/projects/submit)                      |
 | 84 | **PromoteProject**                  | A directory to promote your startup and discover new projects.                              | [Submit Here](https://www.promoteproject.com/submit-startup)              |
+| - | **StartupTrusted**                  | A curated database to discover verified startups and submit your own.                       | [Submit Here](https://startuptrusted.com/submit)                          |
 
 
 
