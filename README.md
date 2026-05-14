@@ -103,9 +103,9 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 78 | **SiteLike**                        | A platform to discover alternative websites, software, and tools.                           | [Submit Here](https://www.sitelike.org/add-site)                          |
 | 79 | **Alternative.me**                  | A platform to find alternatives to software, apps, and web services.                        | [Submit Here](https://alternative.me/how-to/submit-software/)             |
 | 80 | **Future Tools**                    | A directory for discovering the latest AI tools and future technologies.                    | [Submit Here](https://futuretools.io/submit-a-tool)                       |
-| - | **AI With Me**                      | A directory to discover and submit new AI tools and products.                               | [Submit Here](https://aiwith.me/submit/)                                  |
-| - | **Shipybara**                       | A platform to launch your startup and discover new projects.                                | [Submit Here](https://shipybara.com/projects/submit)                      |
-| - | **PromoteProject**                  | A directory to promote your startup and discover new projects.                              | [Submit Here](https://www.promoteproject.com/submit-startup)              |
+| 81 | **AI With Me**                      | A directory to discover and submit new AI tools and products.                               | [Submit Here](https://aiwith.me/submit/)                                  |
+| 82 | **Shipybara**                       | A platform to launch your startup and discover new projects.                                | [Submit Here](https://shipybara.com/projects/submit)                      |
+| 83 | **PromoteProject**                  | A directory to promote your startup and discover new projects.                              | [Submit Here](https://www.promoteproject.com/submit-startup)              |
 
 
 
