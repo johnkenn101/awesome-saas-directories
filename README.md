@@ -108,6 +108,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 83 | **Shipybara**                       | A platform to launch your startup and discover new projects.                                | [Submit Here](https://shipybara.com/projects/submit)                      |
 | 84 | **PromoteProject**                  | A directory to promote your startup and discover new projects.                              | [Submit Here](https://www.promoteproject.com/submit-startup)              |
 | 85 | **StartupTrusted**                  | A curated database to discover verified startups and submit your own.                       | [Submit Here](https://startuptrusted.com/submit)                          |
+| - | **Funnel Directory**                | A directory to compare and find the right funnel builder software for your business.        | [Submit Here](https://funneldirectory.com/submit)                         |
 
 
 
