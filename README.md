@@ -110,6 +110,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 85 | **StartupTrusted**                  | A curated database to discover verified startups and submit your own.                       | [Submit Here](https://startuptrusted.com/submit)                          |
 | 86 | **Funnel Directory**                | A directory to compare and find the right funnel builder software for your business.        | [Submit Here](https://funneldirectory.com/submit)                         |
 | 87 | **Trust Revenue**                 | A verified database and platform to launch your startup and share revenue metrics.          | [Submit Here](https://trust-revenue.com/dashboard/startup)                |
+| - | **GreenRocket**                     | A directory to launch and discover new startup products and tools.                          | [Submit Here](https://greenrocket.app/create)                             |
 
 
 
