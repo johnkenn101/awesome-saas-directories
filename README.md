@@ -114,6 +114,8 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 89 | **OpenAlternative**                 | A community-driven directory of open-source alternatives to proprietary SaaS and software.                 | [Submit Here](https://openalternative.co/submit)                          |
 | 90 | **Huzzler**                         | A founder-built startup directory and community platform to launch and showcase products.                  | [Submit Here](https://huzzler.so/products/create)                         |
 | 91 | **We Like Tools**                   | A curated directory to discover, compare, and select software tools across various categories.             | [Submit Here](https://weliketools.com/submit)                             |
+| 92 | **1000.tools**                      | A curated directory featuring high-quality software and AI-powered tools.                                  | [Submit Here](https://1000.tools/my/tools/create)                         |
+
 
 
 
