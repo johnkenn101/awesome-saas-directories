@@ -113,6 +113,8 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 88 | **GreenRocket**                     | A directory to launch and discover new startup products and tools.                          | [Submit Here](https://greenrocket.app/create)                             |
 | 89 | **OpenAlternative**                 | A community-driven directory of open-source alternatives to proprietary SaaS and software.                 | [Submit Here](https://openalternative.co/submit)                          |
 | 90 | **Huzzler**                         | A founder-built startup directory and community platform to launch and showcase products.                  | [Submit Here](https://huzzler.so/products/create)                         |
+| 91 | **We Like Tools**                   | A curated directory to discover, compare, and select software tools across various categories.             | [Submit Here](https://weliketools.com/submit)                             |
+
 
 
 
