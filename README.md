@@ -117,8 +117,8 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 92 | **1000.tools**                      | A curated directory featuring high-quality software and AI-powered tools.                                  | [Submit Here](https://1000.tools/my/tools/create)                         |
 | 93 | **ConfettiSaaS**                    | A curated startup directory and showcase platform specifically for SaaS products, websites, and apps.      | [Submit Here](https://confettisaas.com/submit)                            |
 | 94 | **gh/awesome-aussie**                  | A primary tech directory for Australian-based startups and open-source projects.                        | [Submit Here](https://github.com/AdamXweb/awesome-aussie)                  |
-| 94 | **AgentMRR**                        | A public revenue leaderboard and verification platform for AI agents with provider-backed proof.           | [Submit Here](https://agentmrr.com/dashboard/agents)                      |
-| 95 | **StartupLibrary**                  | A startup community built to launch your startup, climb the leaderboard, and grow with built-in SEO and marketing tools. | [Submit Here](https://startuplibrary.net/submit)                          |
+| 95 | **AgentMRR**                        | A public revenue leaderboard and verification platform for AI agents with provider-backed proof.           | [Submit Here](https://agentmrr.com/dashboard/agents)                      |
+| 96 | **StartupLibrary**                  | A startup community built to launch your startup, climb the leaderboard, and grow with built-in SEO and marketing tools. | [Submit Here](https://startuplibrary.net/submit)                          |
 
 
 
