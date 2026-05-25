@@ -119,6 +119,10 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 94 | **gh/awesome-aussie**                  | A primary tech directory for Australian-based startups and open-source projects.                        | [Submit Here](https://github.com/AdamXweb/awesome-aussie)                  |
 | 95 | **AgentMRR**                        | A public revenue leaderboard and verification platform for AI agents with provider-backed proof.           | [Submit Here](https://agentmrr.com/dashboard/agents)                      |
 | 96 | **StartupLibrary**                  | A startup community built to launch your startup, climb the leaderboard, and grow with built-in SEO and marketing tools. | [Submit Here](https://startuplibrary.net/submit)                          |
+| 97 | **Product Watch**                   | A daily feed of new tech products and startups where makers can launch their latest projects. | [Submit Here](https://productwatch.io/product/create) |
+
+
+
 
 
 
