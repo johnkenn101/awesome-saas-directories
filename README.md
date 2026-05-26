@@ -121,6 +121,11 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 96 | **StartupLibrary**                  | A startup community built to launch your startup, climb the leaderboard, and grow with built-in SEO and marketing tools. | [Submit Here](https://startuplibrary.net/submit)                          |
 | 97 | **Product Watch**                   | A daily feed of new tech products and startups where makers can launch their latest projects.                | [Submit Here](https://productwatch.io/product/create)                      |
 | 98 | **WeekHack**                        | A weekly product launch platform designed for indie makers, solo founders, and bootstrapped projects.          | [Submit Here](https://www.weekhack.com/launches/submit)                    |
+| 99 | **AIStage**                         | A directory specifically tailored for discovering, listing, and showcasing the latest AI tools.                | [Submit Here](https://aistage.net/submit)                                  |
+| 100 | **AI Center**                    | A curated directory to discover and submit the best AI tools, platforms, and resources.                     | [Submit Here](https://aicenter.ai/submit-tools)                           |
+| 101 | **AI Directories**               | A directory of AI listing sites and submission service to boost visibility and SEO.                            | [Submit Here](https://www.aidirectori.es/dashboard/submit-ai-tool)       |
+| 102 | **AI Tools by Neil Patel**           | A curated directory for discovering and listing AI-powered tools, managed by marketer Neil Patel.                | [Submit Here](https://aitools.neilpatel.com/submit/)                         |
+| 103 | **BroUseAI**                        | A user-friendly directory for discovering, listing, and comparing AI tools.                                    | [Submit Here](https://www.brouseai.com/submission/ai)                    |
 
 
 
