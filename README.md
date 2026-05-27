@@ -132,6 +132,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 107 | **ToolFame**                        | A curated directory designed to help discover trending web tools, SaaS, and software products.              | [Submit Here](https://toolfame.com/submit)                                |
 | 108 | **ShowMeBestAI**                    | A structured AI tools directory to submit, discover, and categorize the best AI tools and resources.        | [Submit Here](https://showmebest.ai/submit)                               |
 | 109 | **Neeed Directory**                 | A curated directory showcasing the best web tools, resources, and SaaS products for creators.               | [Submit Here](https://neeed.directory/submit)                             |
+| 110 | **gh/awesome-ai-tools**             | A curated list of awesome artificial intelligence tools, generators, and developer utilities.                | [Submit Here](https://github.com/mahseema/awesome-ai-tools)                |
 
 ## 🤝 How to Contribute
 
