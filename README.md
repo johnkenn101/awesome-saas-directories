@@ -131,6 +131,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 106 | **RankmyAI**                        | A data-driven directory and ranking platform specifically tailored for AI tools and products.               | [Submit Here](https://www.rankmyai.com/tool-addition)                     |
 | 107 | **ToolFame**                        | A curated directory designed to help discover trending web tools, SaaS, and software products.              | [Submit Here](https://toolfame.com/submit)                                |
 | 108 | **ShowMeBestAI**                    | A structured AI tools directory to submit, discover, and categorize the best AI tools and resources.        | [Submit Here](https://showmebest.ai/submit)                               |
+| 109 | **Neeed Directory**                 | A curated directory showcasing the best web tools, resources, and SaaS products for creators.               | [Submit Here](https://neeed.directory/submit)                             |
 
 ## 🤝 How to Contribute
 
