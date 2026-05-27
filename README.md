@@ -128,6 +128,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 103 | **BroUseAI**                        | A user-friendly directory for discovering, listing, and comparing AI tools.                                    | [Submit Here](https://www.brouseai.com/submission/ai)                    |
 | 104 | **SaaSFame**                        | A curated directory to discover and submit SaaS products and software tools.                                    | [Submit Here](https://saasfame.com/submit)                                |
 | 105 | **Wired Business**                  | A web and business directory focusing on showcasing startups, products, and websites to boost visibility.      | [Submit Here](https://wired.business/submit)                              |
+| 106 | **RankmyAI**                        | A data-driven directory and ranking platform specifically tailored for AI tools and products.               | [Submit Here](https://www.rankmyai.com/tool-addition)                     |
 
 ## 🤝 How to Contribute
 
