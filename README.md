@@ -126,16 +126,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 101 | **AI Directories**               | A directory of AI listing sites and submission service to boost visibility and SEO.                            | [Submit Here](https://www.aidirectori.es/dashboard/submit-ai-tool)       |
 | 102 | **AI Tools by Neil Patel**           | A curated directory for discovering and listing AI-powered tools, managed by marketer Neil Patel.                | [Submit Here](https://aitools.neilpatel.com/submit/)                         |
 | 103 | **BroUseAI**                        | A user-friendly directory for discovering, listing, and comparing AI tools.                                    | [Submit Here](https://www.brouseai.com/submission/ai)                    |
-
-
-
-
-
-
-
-
-
-
+| 104 | **SaaSFame**                        | A curated directory to discover and submit SaaS products and software tools.                                    | [Submit Here](https://saasfame.com/submit)                                |
 
 ## 🤝 How to Contribute
 
