@@ -136,6 +136,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 111 | **Aidirs**                          | A directory to discover, list, and evaluate the latest AI tools and software.                               | [Submit Here](https://aidirs.best/submit)                                 |
 | 112 | **WhatTheAI**                       | A curated database featuring thousands of AI tools and services updated daily.                              | [Submit Here](https://whattheai.tech/submit)                              |
 | 113 | **Waildworld**                      | A curated directory and catalog to discover, search, and submit the latest AI tools.                        | [Submit Here](https://waildworld.com/)                                     |
+| 114 | **DevPages**                        | A curated, community-driven directory of software developer tools and resources.                            | [Submit Here](https://devpages.io/submit-a-tool)                          |
 
 ## 🤝 How to Contribute
 
