@@ -134,6 +134,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 109 | **Neeed Directory**                 | A curated directory showcasing the best web tools, resources, and SaaS products for creators.               | [Submit Here](https://neeed.directory/submit)                             |
 | 110 | **gh/awesome-ai-tools**             | A curated list of awesome artificial intelligence tools, generators, and developer utilities.                | [Submit Here](https://github.com/mahseema/awesome-ai-tools)                |
 | 111 | **Aidirs**                          | A directory to discover, list, and evaluate the latest AI tools and software.                               | [Submit Here](https://aidirs.best/submit)                                 |
+| 112 | **WhatTheAI**                       | A curated database featuring thousands of AI tools and services updated daily.                              | [Submit Here](https://whattheai.tech/submit)                              |
 
 ## 🤝 How to Contribute
 
