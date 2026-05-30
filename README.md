@@ -144,6 +144,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 119 | **AI Tools Saver**                  | A directory and marketplace for AI tools, focusing on exclusive deals, discounts, and lifetime offers.                       | [Submit Here](https://www.aitoolsaver.com/submit-ai-tool)                 |
 | 120 | **AI Hustle**                       | A curated directory of AI-powered SaaS solutions and tools designed to automate workflows and improve productivity.           | [Submit Here](https://aihustle.tools/submit/)                             |
 | 121 | **Bowora**                          | A startup directory and community launchpad with a star ranking system to help founders launch, track, and grow their businesses. | [Submit Here](https://bowora.com/register)                                |
+| 122 | **SHIP OR DIE** | A public accountability platform for indie hackers to ship, track, and share products. | [Submit Here](https://shipordie.club/leaderboard) |
 
 ## 🤝 How to Contribute
 
