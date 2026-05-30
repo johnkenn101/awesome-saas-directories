@@ -141,6 +141,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 116 | **Webspot**                         | A web discovery platform designed to find tools, guides, and productive websites.                                           | [Submit Here](https://webspot.app/submit)                                 |
 | 117 | **BuildVoyage**                     | A curated directory and community platform for micro-SaaS founders and makers to showcase products and track milestones.    | [Submit Here](https://buildvoyage.com/submit)                             |
 | 118 | **AI Pulse**                        | An ad-free directory and resource hub designed to discover, compare, and list AI tools.                                      | [Submit Here](https://www.aipulse.fyi/submit)                             |
+| 119 | **AI Tools Saver**                  | A directory and marketplace for AI tools, focusing on exclusive deals, discounts, and lifetime offers.                       | [Submit Here](https://www.aitoolsaver.com/submit-ai-tool)                 |
 
 ## 🤝 How to Contribute
 
