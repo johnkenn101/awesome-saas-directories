@@ -167,7 +167,7 @@ Created and maintained by [**Shubham Bhamare**](https://linktr.ee/theshubh77).
 If you found this directory helpful in launching your SaaS, consider giving the repository a ⭐!
 
 <details>
-<summary>Star History</summary>
+<summary><kbd>Star History</kbd></summary>
 <a href="https://www.star-history.com/?repos=theshubh77%2Fawesome-saas-directories&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=theshubh77/awesome-saas-directories&type=date&theme=dark&legend=top-left" />
