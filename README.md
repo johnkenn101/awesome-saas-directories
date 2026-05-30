@@ -145,6 +145,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 120 | **AI Hustle**                       | A curated directory of AI-powered SaaS solutions and tools designed to automate workflows and improve productivity.           | [Submit Here](https://aihustle.tools/submit/)                             |
 | 121 | **Bowora**                          | A startup directory and community launchpad with a star ranking system to help founders launch, track, and grow their businesses. | [Submit Here](https://bowora.com/register)                                |
 | 122 | **SHIP OR DIE** | A public accountability platform for indie hackers to ship, track, and share products. | [Submit Here](https://shipordie.club/leaderboard) |
+| 123 | **SubmitMatic** | A curated SaaS directory and submission platform to help founders list their startups and gain backlinks. | [Submit Here](https://submitmatic.com/submit) |
 
 ## 🤝 How to Contribute
 
