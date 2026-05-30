@@ -142,6 +142,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 117 | **BuildVoyage**                     | A curated directory and community platform for micro-SaaS founders and makers to showcase products and track milestones.    | [Submit Here](https://buildvoyage.com/submit)                             |
 | 118 | **AI Pulse**                        | An ad-free directory and resource hub designed to discover, compare, and list AI tools.                                      | [Submit Here](https://www.aipulse.fyi/submit)                             |
 | 119 | **AI Tools Saver**                  | A directory and marketplace for AI tools, focusing on exclusive deals, discounts, and lifetime offers.                       | [Submit Here](https://www.aitoolsaver.com/submit-ai-tool)                 |
+| 120 | **AI Hustle**                       | A curated directory of AI-powered SaaS solutions and tools designed to automate workflows and improve productivity.           | [Submit Here](https://aihustle.tools/submit/)                             |
 
 ## 🤝 How to Contribute
 
